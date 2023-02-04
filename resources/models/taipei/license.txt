@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chinese Pagoda in Taipei, Taiwan
+* source:	https://sketchfab.com/3d-models/chinese-pagoda-in-taipei-taiwan-520c3273706d48a5af13e0133e4a3e5e
+* author:	dlfitch (https://sketchfab.com/dlfitch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chinese Pagoda in Taipei, Taiwan" (https://sketchfab.com/3d-models/chinese-pagoda-in-taipei-taiwan-520c3273706d48a5af13e0133e4a3e5e) by dlfitch (https://sketchfab.com/dlfitch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

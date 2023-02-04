@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mahatma Gandhi
+* source:	https://sketchfab.com/3d-models/mahatma-gandhi-afb1426ee62741c7aa8b91514f8cb46e
+* author:	jvouillon (https://sketchfab.com/jvouillon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mahatma Gandhi" (https://sketchfab.com/3d-models/mahatma-gandhi-afb1426ee62741c7aa8b91514f8cb46e) by jvouillon (https://sketchfab.com/jvouillon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

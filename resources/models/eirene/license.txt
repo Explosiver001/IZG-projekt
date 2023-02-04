@@ -1,0 +1,11 @@
+Model Information:
+* title:	Eirene with Ploutus
+* source:	https://sketchfab.com/3d-models/eirene-with-ploutus-e4aa25c3a4d5499d9dbc5176b4419bd3
+* author:	Geoffrey Marchal (https://sketchfab.com/geoffreymarchal)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Eirene with Ploutus" (https://sketchfab.com/3d-models/eirene-with-ploutus-e4aa25c3a4d5499d9dbc5176b4419bd3) by Geoffrey Marchal (https://sketchfab.com/geoffreymarchal) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
